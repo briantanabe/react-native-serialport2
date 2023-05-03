@@ -11,15 +11,15 @@
     "android serialport",
     "react native usb serialport communication"
   ],
-  "author": "Melih YARIKKAYA",
+  "author": "Brian Tanabe",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.59.0"
+    "react-native": "*"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/melihyarikkaya/react-native-serialport.git"
+    "url": "https://github.com/briantanabe/react-native-serialport.git"
   },
-  "homepage": "https://github.com/melihyarikkaya/react-native-serialport.git",
+  "homepage": "https://github.com/briantanabe/react-native-serialport.git",
   "types": "./types/index.d.ts"
 }
